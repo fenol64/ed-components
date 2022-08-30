@@ -1,0 +1,15 @@
+{
+  "name": "ed-components",
+  "version": "1.0.6",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "nox0202 <fernandinho.nco@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "@react-native-community/checkbox": "^0.5.12",
+    "@react-native-picker/picker": "^2.4.4"
+  }
+}
